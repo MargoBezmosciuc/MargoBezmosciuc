@@ -1,5 +1,6 @@
 ### Hi there 👋
-## 🚀 About Me 🎓 I am **Junior Full Stack Web Developer** Studying at Digital Career Institute
+## 🚀 About Me 
+🎓 I am **Junior Full Stack Web Developer** Studying at Digital Career Institute
 
 ## 🛠️ Skills
 
@@ -18,7 +19,7 @@
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]([https://tapajyoti-bose.vercel.app/](https://margo-bezmosciuc-portfolio.netlify.app/#portfolio)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]([https://margo-bezmosciuc-portfolio.netlify.app/#portfolio](https://margo-bezmosciuc-portfolio.netlify.app/#portfolio)
 <!--
 **MargoBezmosciuc/MargoBezmosciuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
