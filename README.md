@@ -16,6 +16,9 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)]([https://tapajyoti-bose.vercel.app/](https://margo-bezmosciuc-portfolio.netlify.app/#portfolio))
 <!--
 **MargoBezmosciuc/MargoBezmosciuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
