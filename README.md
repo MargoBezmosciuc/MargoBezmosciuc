@@ -32,7 +32,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:margo.bezmosciuc@gmail.com)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MargoBezmosciuc&label=Profile%20views&style=plastic" alt="MargoBezmosciuc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MargoBezmosciuc&label=Profile%20views&style=dark" alt="MargoBezmosciuc" /> </p>
 
 
 <!--
