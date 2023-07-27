@@ -3,7 +3,7 @@
 🎓 I am **Junior Full Stack Web Developer** Studying at Digital Career Institute
 
 ## 🛠️ Skills
-
+<p style="color: #F7DF1E; background-color: #05c338">
 ### Languages
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
@@ -33,7 +33,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MargoBezmosciuc&label=Profile%20views&style=dark" alt="MargoBezmosciuc" /> </p>
-
+</p>
 
 <!--
 **MargoBezmosciuc/MargoBezmosciuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
