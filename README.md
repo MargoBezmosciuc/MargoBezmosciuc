@@ -20,6 +20,7 @@
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://margo-bezmosciuc-portfolio.netlify.app/#portfolio)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oh9hUzH9-5Z8tBi1WK-vq3cmFXyMEnqP/view?usp=sharing)
 <!--
 **MargoBezmosciuc/MargoBezmosciuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
