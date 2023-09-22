@@ -31,12 +31,13 @@
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bezmosciuc-marina-4002137b/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:margo.bezmosciuc@gmail.com)
 
-Don't forget to check my Resume:
 
-<img src="https://qr.de/code/kj3pFK.png" alt="QR Code" width="200" height="200" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MargoBezmosciuc&label=Profile%20visitors&style=dark" alt="MargoBezmosciuc" /> </p>
 
+Don't forget to check my Resume:
+ ![QR Code](https://qr.de/code/kj3pFK.png)
+ 
 <!--
 **MargoBezmosciuc/MargoBezmosciuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
