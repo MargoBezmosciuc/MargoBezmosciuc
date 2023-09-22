@@ -31,7 +31,7 @@
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bezmosciuc-marina-4002137b/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:margo.bezmosciuc@gmail.com)
 
-check my CV: (https://qr.de/code/kj3pFK.png)
+check my CV: ![QR Code](https://qr.de/code/kj3pFK.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MargoBezmosciuc&label=Profile%20visitors&style=dark" alt="MargoBezmosciuc" /> </p>
 
