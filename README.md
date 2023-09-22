@@ -31,26 +31,13 @@
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bezmosciuc-marina-4002137b/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:margo.bezmosciuc@gmail.com)
 
-check my CV: ![QR Code](https://qr.de/code/kj3pFK.png)
+Dont Forget to check my Resume:
+
+ ![QR Code](https://qr.de/code/kj3pFK.png)
 
 <img src="https://qr.de/code/kj3pFK.png" alt="QR Code" width="200" height="200" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MargoBezmosciuc&label=Profile%20visitors&style=dark" alt="MargoBezmosciuc" /> </p>
-
-TEST
-
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://margo-bezmosciuc-portfolio.netlify.app/#portfolio)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1oh9hUzH9-5Z8tBi1WK-vq3cmFXyMEnqP/view?usp=sharing)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bezmosciuc-marina-4002137b/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:margo.bezmosciuc@gmail.com)
-[![QR Code](https://qr.de/code/kj3pFK.png)](https://qr.de/code/kj3pFK.png)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MargoBezmosciuc&label=Profile%20visitors&style=dark" alt="MargoBezmosciuc" /> </p>
-
-
-
 
 <!--
 **MargoBezmosciuc/MargoBezmosciuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
