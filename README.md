@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## 🚀 About Me 
 🎓 I am **Junior Full Stack Web Developer** Studying at Digital Career Institute
+![Banner3](https://github.com/MargoBezmosciuc/MargoBezmosciuc/assets/112941149/1a4c01fb-9904-4460-9a49-c283ffae734b)
 
 ## 🛠️ Skills
 
