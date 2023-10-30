@@ -36,10 +36,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MargoBezmosciuc&label=Profile%20visitors&style=dark" alt="MargoBezmosciuc" /> </p>
 
-Don't miss out on the video showcasing my latest project, a result of incredible teamwork and collaboration!
-![QR Code](https://qr.de/code/Z4WetL.png)
+
  
 <!--
+Don't miss out on the video showcasing my latest project, a result of incredible teamwork and collaboration!
+![QR Code](https://qr.de/code/Z4WetL.png)
 **MargoBezmosciuc/MargoBezmosciuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
